@@ -1,9 +1,8 @@
-<img src="https://technology.riotgames.com/sites/default/files/articles/116/golangheader.png">
 
 
 ## Hi, I am Azizullo Temirov 👋
 
-- 🔭 I’m currently learning Golang 
+- 🔭 I’m currently learning ... 
 - 🌱 I like to explore New Programming Languages and Technologies 
 - ⚡ Fun fact: I know that I know nothing.
 - 💬 Anyway feel free to ask any questions
